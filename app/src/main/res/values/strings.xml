@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resigter_50015516_Login</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="fname">Enter First Name</string>
+    <string name="famname">Enter Family Name</string>
+    <string name="dob">Enter DOB</string>
+    <string name="enteremail">Enter Email</string>
+    <string name="enterpwd">Enter Password</string>
+    <string name="back">back</string>
+    <string name="fnamer">First Name</string>
+    <string name="famnamer">Family Name</string>
+    <string name="dobr">Date of Birth</string>
+    </resources>

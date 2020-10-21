@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Resigter_50015516_Login"
